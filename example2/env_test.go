@@ -1,7 +1,7 @@
 package example2_test
 
 import (
-	"example2"
+	"go-test-example/example2"
 	"os"
 	"testing"
 )

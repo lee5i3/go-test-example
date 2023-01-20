@@ -1,8 +1,8 @@
 package example1_test
 
 import (
-	"example1"
 	"fmt"
+	"go-test-example/example1"
 	"testing"
 )
 
